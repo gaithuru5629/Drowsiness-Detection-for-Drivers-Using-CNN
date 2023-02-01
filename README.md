@@ -45,3 +45,10 @@ Conclusion:
 ## Phase Three: Sending email notifications using MailSlurp
 
 At this stage, in a bid to reduce the rate of driver drowsiness, we took further step by importing MailSlurp Client and configuring it with an API key to send email notifications to sleeping drivers’ thus keeping them awake. 
+
+
+## Links:
+
+Dataset: \url{https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new}   
+Pickle: https://practicaldatascience.co.uk/machine-learning/how-to-save-and-load-machine-learning-models-using-pickle
+https://docs.python.org/3/library/pickle.html
